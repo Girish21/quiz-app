@@ -1,0 +1,647 @@
+{
+  "id": 1,
+  "name": "INQUIZITIVE",
+  "description": "Asp.Net Quiz (contains webform, mvc, web API, etc.)",
+  "questions": [
+    {
+      "id": 1010,
+      "name": "Programming in DSP is carried out using ",
+      "questionTypeId": 1,
+      "doublePoints": false,
+      "isClicked": false,
+      "hasPicture":false,
+      "pictureUrl":null,
+      "options": [
+        {
+          "id": 1055,
+          "questionId": 1010,
+          "name": "C",
+          "isAnswer": false
+        },
+        {
+          "id": 1056,
+          "questionId": 1010,
+          "name": "Assembly",
+          "isAnswer": true
+        },
+        {
+          "id": 1057,
+          "questionId": 1010,
+          "name": "Machine language",
+          "isAnswer": false
+        },
+        {
+          "id": 1058,
+          "questionId": 1010,
+          "name": "Python",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 1011,
+      "name": "Signals can be amplified without attenuation when the op-amp has",
+      "questionTypeId": 1,
+      "doublePoints": false,
+      "isClicked": false,
+      "hasPicture":false,
+      "pictureUrl":null,
+      "options": [
+        {
+          "id": 1055,
+          "questionId": 1010,
+          "name": "zero Bandwidth",
+          "isAnswer": false
+        },
+        {
+          "id": 1057,
+          "questionId": 1010,
+          "name": "0 Power",
+          "isAnswer": false
+        },
+        {
+          "id": 1056,
+          "questionId": 1010,
+          "name": "Infinite Bandwidth",
+          "isAnswer": true
+        },
+        {
+          "id": 1058,
+          "questionId": 1010,
+          "name": "None of the above",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 1012,
+      "name": "What senses mechanical motion, provides info regarding position,velocity and direction, carries out analog to digital conversion?",
+      "questionTypeId": 1,
+      "doublePoints": false,
+      "isClicked": false,
+      "hasPicture":false,
+      "pictureUrl":null,
+      "options": [
+        {
+          "id": 1055,
+          "questionId": 1010,
+          "name": "Encoders",
+          "isAnswer": true
+        },
+        {
+          "id": 1057,
+          "questionId": 1010,
+          "name": "Decoders",
+          "isAnswer": false
+        },
+        {
+          "id": 1056,
+          "questionId": 1010,
+          "name": "Multiplexers",
+          "isAnswer": false
+        },
+        {
+          "id": 1058,
+          "questionId": 1010,
+          "name": "All of the above",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 1013,
+      "name": "What does SPG and MPG stand for?",
+      "questionTypeId": 1,
+      "doublePoints": false,
+      "isClicked": false,
+      "hasPicture":false,
+      "pictureUrl":null,
+      "options": [
+        {
+          "id": 1055,
+          "questionId": 1010,
+          "name": "Single Point Ground and Mutiple Point Ground",
+          "isAnswer": true
+        },
+        {
+          "id": 1057,
+          "questionId": 1010,
+          "name": "Seconds per Generate and Minutes per Generate",
+          "isAnswer": false
+        },
+        {
+          "id": 1056,
+          "questionId": 1010,
+          "name": "Saved per Gallon and Miles per Gallon",
+          "isAnswer": false
+        },
+        {
+          "id": 1058,
+          "questionId": 1010,
+          "name": "None of the above",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 1014,
+      "name": "What is the application of previous question's answer?",
+      "questionTypeId": 1,
+      "doublePoints": false,
+      "isClicked": false,
+      "hasPicture":false,
+      "pictureUrl":null,
+      "options": [
+        {
+          "id": 1055,
+          "questionId": 1010,
+          "name": "Cars",
+          "isAnswer": false
+        },
+        {
+          "id": 1057,
+          "questionId": 1010,
+          "name": "Robotics",
+          "isAnswer": false
+        },
+        {
+          "id": 1056,
+          "questionId": 1010,
+          "name": "Transmission Lines",
+          "isAnswer": false
+        },
+        {
+          "id": 1058,
+          "questionId": 1010,
+          "name": "Space",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 1015,
+      "name": "What does a PIR detect?",
+      "questionTypeId": 1,
+      "doublePoints": false,
+      "isClicked": false,
+      "hasPicture":false,
+      "pictureUrl":null,
+      "options": [
+        {
+          "id": 1055,
+          "questionId": 1010,
+          "name": "Temperature",
+          "isAnswer": true
+        },
+        {
+          "id": 1057,
+          "questionId": 1010,
+          "name": "Heat",
+          "isAnswer": false
+        },
+        {
+          "id": 1056,
+          "questionId": 1010,
+          "name": "Obstacle",
+          "isAnswer": false
+        },
+        {
+          "id": 1058,
+          "questionId": 1010,
+          "name": "None of the above",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 1016,
+      "name": "What technology is used while a batsman is testing himself against a virtual bowler?",
+      "questionTypeId": 1,
+      "doublePoints": false,
+      "isClicked": false,
+      "hasPicture":false,
+      "pictureUrl":null,
+      "options": [
+        {
+          "id": 1055,
+          "questionId": 1010,
+          "name": "Head-Up Display (HUD)",
+          "isAnswer": false
+        },
+        {
+          "id": 1056,
+          "questionId": 1010,
+          "name": "Head-Mounted Display (HMD)",
+          "isAnswer": true
+        },
+        {
+          "id": 1057,
+          "questionId": 1010,
+          "name": "Slow-Frame Display (SFD)",
+          "isAnswer": false
+        },
+        {
+          "id": 1058,
+          "questionId": 1010,
+          "name": "Mounted End Display (MED)",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 1017,
+      "name": "Ronaldo is the face of FIFA 18. Most of his actions are adopted in the game. What technology was used in the process?",
+      "questionTypeId": 1,
+      "doublePoints": false,
+      "isClicked": false,
+      "hasPicture":false,
+      "pictureUrl":null,
+      "options": [
+        {
+          "id": 1055,
+          "questionId": 1010,
+          "name": "Image Processing",
+          "isAnswer": false
+        },
+        {
+          "id": 1056,
+          "questionId": 1010,
+          "name": "Motion Capture",
+          "isAnswer": true
+        },
+        {
+          "id": 1057,
+          "questionId": 1010,
+          "name": "Motion Rendering",
+          "isAnswer": false
+        },
+        {
+          "id": 1058,
+          "questionId": 1010,
+          "name": "Gesture Sensing",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 1018,
+      "name": "Which is used to generate pictures of the arteries?",
+      "questionTypeId": 1,
+      "doublePoints": false,
+      "isClicked": false,
+      "hasPicture":false,
+      "pictureUrl":null,
+      "options": [
+        {
+          "id": 1055,
+          "questionId": 1010,
+          "name": "MRI",
+          "isAnswer": false
+        },
+        {
+          "id": 1057,
+          "questionId": 1010,
+          "name": "MRA",
+          "isAnswer": true
+        },
+        {
+          "id": 1056,
+          "questionId": 1010,
+          "name": "X-RAY",
+          "isAnswer": false
+        },
+        {
+          "id": 1058,
+          "questionId": 1010,
+          "name": "CT scan",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 1019,
+      "name": "Which of the following type of electric drive is used in cranes?",
+      "questionTypeId": 1,
+      "doublePoints": false,
+      "isClicked": false,
+      "hasPicture":false,
+      "pictureUrl":null,
+      "options": [
+        {
+          "id": 1055,
+          "questionId": 1010,
+          "name": "Multimotors",
+          "isAnswer": true
+        },
+        {
+          "id": 1056,
+          "questionId": 1010,
+          "name": "Group Motors",
+          "isAnswer": false
+        },
+        {
+          "id": 1057,
+          "questionId": 1010,
+          "name": "Individual Motors",
+          "isAnswer": false
+        },
+        {
+          "id": 1058,
+          "questionId": 1010,
+          "name": "Both A and C",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 1020,
+      "name": "Which is correct? Light consists of 1.UV Waves 2.EM Waves 3.Waves 4.Particle",
+      "questionTypeId": 1,
+      "doublePoints": false,
+      "isClicked": false,
+      "hasPicture":false,
+      "pictureUrl":null,
+      "options": [
+        {
+          "id": 1055,
+          "questionId": 1010,
+          "name": "2",
+          "isAnswer": false
+        },
+        {
+          "id": 1056,
+          "questionId": 1010,
+          "name": "1, 2",
+          "isAnswer": false
+        },
+        {
+          "id": 1057,
+          "questionId": 1010,
+          "name": "1, 2, 3, 4",
+          "isAnswer": false
+        },
+        {
+          "id": 1058,
+          "questionId": 1010,
+          "name": "2, 3, 4",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 1021,
+      "name": "_____ is a very sensitive microphone located in one of the stumps, which can pick up the sound when the ball hits the bat in cricket.",
+      "questionTypeId": 1,
+      "doublePoints": false,
+      "isClicked": false,
+      "hasPicture":false,
+      "pictureUrl":null,
+      "options": [
+        {
+          "id": 1055,
+          "questionId": 1010,
+          "name": "Bat-O-Meter",
+          "isAnswer": false
+        },
+        {
+          "id": 1056,
+          "questionId": 1010,
+          "name": "Hit-O-Meter",
+          "isAnswer": false
+        },
+        {
+          "id": 1057,
+          "questionId": 1010,
+          "name": "Snick-O-Meter",
+          "isAnswer": true
+        },
+        {
+          "id": 1058,
+          "questionId": 1010,
+          "name": "Edge Meter",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 1022,
+      "name": "What does this sensor calculate?",
+      "questionTypeId": 1,
+      "doublePoints": false,
+      "isClicked": false,
+      "hasPicture":true,
+      "pictureUrl":"data/Intel-Cricket-9.jpg",
+      "options": [
+        {
+          "id": 1055,
+          "questionId": 1010,
+          "name": "Bat Swing or speed",
+          "isAnswer": true
+        },
+        {
+          "id": 1056,
+          "questionId": 1010,
+          "name": "Toss Detection",
+          "isAnswer": false
+        },
+        {
+          "id": 1057,
+          "questionId": 1010,
+          "name": "Breathing rate of the player",
+          "isAnswer": false
+        },
+        {
+          "id": 1058,
+          "questionId": 1010,
+          "name": "All of the above",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 1023,
+      "name": "What are these?",
+      "questionTypeId": 1,
+      "doublePoints": false,
+      "isClicked": false,
+      "hasPicture":true,
+      "pictureUrl":"data/RechargingSwarm.jpg",
+      "options": [
+        {
+          "id": 1055,
+          "questionId": 1010,
+          "name": "Lego",
+          "isAnswer": false
+        },
+        {
+          "id": 1056,
+          "questionId": 1010,
+          "name": "Swarm",
+          "isAnswer": true
+        },
+        {
+          "id": 1057,
+          "questionId": 1010,
+          "name": "Human Tracking",
+          "isAnswer": false
+        },
+        {
+          "id": 1058,
+          "questionId": 1010,
+          "name": "None of the above",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 1024,
+      "name": "What type of sensor is used in such areas to display such messages?",
+      "questionTypeId": 1,
+      "doublePoints": false,
+      "isClicked": false,
+      "hasPicture":true,
+      "pictureUrl":"data/wilc3844.fa.jpg",
+      "options": [
+        {
+          "id": 1055,
+          "questionId": 1010,
+          "name": "Bio Sensors(Hand Held)",
+          "isAnswer": true
+        },
+        {
+          "id": 1056,
+          "questionId": 1010,
+          "name": "Proximity Sensors",
+          "isAnswer": false
+        },
+        {
+          "id": 1057,
+          "questionId": 1010,
+          "name": "Temperature Sensors",
+          "isAnswer": false
+        },
+        {
+          "id": 1058,
+          "questionId": 1010,
+          "name": "MEMS",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 1025,
+      "name": "What is the technology used?",
+      "questionTypeId": 1,
+      "doublePoints": false,
+      "isClicked": false,
+      "hasPicture":true,
+      "pictureUrl":"data/eeg.jpg",
+      "options": [
+        {
+          "id": 1055,
+          "questionId": 1010,
+          "name": "EEG",
+          "isAnswer": true
+        },
+        {
+          "id": 1056,
+          "questionId": 1010,
+          "name": "EPoC",
+          "isAnswer": false
+        },
+        {
+          "id": 1057,
+          "questionId": 1010,
+          "name": "EFG",
+          "isAnswer": false
+        },
+        {
+          "id": 1058,
+          "questionId": 1010,
+          "name": "EMG",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    }
+  ]
+}

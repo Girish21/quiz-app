@@ -1,0 +1,85 @@
+button {
+  margin: 10px;
+}
+
+.card {
+  border: none !important;
+  border-radius: 5px !important;
+  height: 200px;
+  margin: 10px;
+  display: block;
+  text-align: center;
+  color: #ffffff;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  background-color: #FFC107;
+}
+
+.card-clicked {
+  background-color: #303F9F;
+}
+
+.card > .row {
+  width: 100%;
+  height: 100%;
+}
+
+#quiz {
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 5px;
+}
+
+img {
+  height: 250px;
+  width: 250px;
+  padding: 5px;
+  margin: 10px;
+}
+
+.quiz-question-padding {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.result {
+  padding: 7px;
+}
+
+.result-wrapper {
+  padding: 10px;
+  position: relative;
+}
+
+.result-wrapper > h2 {
+  display: inline-block;
+}
+
+.result-score {
+  position: absolute;
+  right: 10px;
+  display: inline-block;
+}
+
+@media screen and (max-width: 1024px) {
+
+  .card {
+    height: 150px;
+  }
+
+}
+
+@media screen and (max-width: 768px) {
+
+  .card {
+    height: 100px;
+  }
+
+  img {
+    height: 150px;
+    width: 150px;
+    padding: 5px;
+    margin: 10px;
+  }
+
+}

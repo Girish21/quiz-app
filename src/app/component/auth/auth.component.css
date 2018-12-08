@@ -1,0 +1,14 @@
+.position-main {
+  position: absolute;
+  top: 50%;
+}
+
+.help-block {
+  display: block;
+}
+
+.btn {
+  margin-top: 25px;
+  margin-right: 25px;
+  float: right;
+}
